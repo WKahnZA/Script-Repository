@@ -1,1 +1,1 @@
-A collection of useful SCOM tools form various sources
+A collection of useful SCOM tools from various sources
